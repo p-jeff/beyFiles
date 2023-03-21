@@ -17,6 +17,8 @@ Files:
 
 [AutoCad](https://github.com/p-jeff/beyFiles/raw/main/BurstLayer.dwg)
 
+[PDF](https://github.com/p-jeff/beyFiles/raw/main/BurstLayer.pdf)
+
 ### Preferabely use one of the Others
 [Mesh](https://github.com/p-jeff/beyFiles/raw/main/BurstLayer.stl)
 
